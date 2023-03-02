@@ -67,6 +67,6 @@ to_do.txt ไม่มีอะไรข้างจากข้อความ�
 ![erhreh](https://user-images.githubusercontent.com/78845680/222417741-afe2a4fb-cc19-4213-a995-8c4362f520d9.PNG)<br />
 เรามาลองกันเลย<br />
 ![asdasdasdasd](https://user-images.githubusercontent.com/78845680/222417795-cfc7336e-d318-4635-9163-4bb5b4ef7c78.PNG)<br />
--p: Makes the shell privileged<br />
+***-p: Makes the shell privileged<br />***
 ถ้า whoami ดูจะพบว่าได้เป็น root user แล้วจากนั้นก็สามารถอ่าน flag ใน root.txt ได้แล้ว<br />
 ![ans](https://user-images.githubusercontent.com/78845680/222418528-3d4d6dff-21f4-4f7c-804c-50caa686f4f7.PNG)
