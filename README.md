@@ -1,1 +1,1 @@
-- [TryHackMe- Anonymous CTF Writeup](https://github.com/rozkzzz/ctf.wiki.git)
+- [TryHackMe- Anonymous CTF Writeup](https://github.com/rozkzzz/ctf/wiki/TryHackMe--Anonymous-CTF-Writeup)
